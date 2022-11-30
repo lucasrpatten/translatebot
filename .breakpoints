@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "faa7aa88-8956-48a6-819c-e6d387a5b482",
+        "line": 10,
+        "version": 1112,
+        "index": 186
+      },
+      {
+        "id": "e3fe40ba-7f0f-43a8-bd74-2ce7146dec30",
+        "line": 16,
+        "version": 1112,
+        "index": 385
+      },
+      {
+        "id": "7e7c1d00-0743-4767-a81b-321d64708fd3",
+        "line": 16,
+        "version": 1112,
+        "index": 385
+      },
+      {
+        "id": "a781e8bc-e9cf-4979-a2ae-8acbb4fcb419",
+        "line": 23,
+        "version": 1112,
+        "index": 563
+      }
+    ]
+  }
+}
